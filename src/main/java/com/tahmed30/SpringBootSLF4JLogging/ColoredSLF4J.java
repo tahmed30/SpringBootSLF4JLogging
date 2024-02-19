@@ -32,12 +32,4 @@ public class ColoredSLF4J {
         log.info(logLevel.getColorCode() + logMessage + ANSI_RESET);
     }
 
-    public static void main(String[] args) {
-        log(LogLevel.INFO, "This is a sample code for colored log with log level INFO");
-        log(LogLevel.WARN, "This is a sample code for colored log with log level WARN");
-        log(LogLevel.TRACE, "This is a sample code for colored log with log level TRACE");
-        log(LogLevel.DEBUG, "This is a sample code for colored log with log level DEBUG");
-        log(LogLevel.ERROR, "This is a sample code for colored log with log level ERROR");
-    }
-
 }
