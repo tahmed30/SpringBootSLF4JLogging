@@ -7,4 +7,4 @@ Teatching and Learing
 https://youtube.com/@TeacherTariku
 [(Java Logging) https://youtu.be/gk2SGfxejFE?si=XjgeqfPbR2mBoMN2]
 
-<img src="https://tahmed30.github.io/JavaUtilityLogging/images/coloredLogging.png" width="500">
+<img src="https://tahmed30.github.io/SpringBootSLF4JLogging/images/coloredLogging.png" width="500">
